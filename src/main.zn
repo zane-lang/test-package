@@ -1,5 +1,9 @@
 package testPackage
 
+import sublib
+
 Void greet() {
+	String lang = sublib$getLang()
+	puts(lang)
 	puts("Hello testPackage!")
 }
