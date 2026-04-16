@@ -1,0 +1,6 @@
+name testPackage
+type library
+
+dependencies [
+	key url version
+]

@@ -1,0 +1,5 @@
+package testPackage
+
+Void greet() {
+	puts("Hello testPackage!")
+}
