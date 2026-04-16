@@ -1,0 +1,5 @@
+package sublib
+
+String getLang() {
+	return "Zane"
+}
